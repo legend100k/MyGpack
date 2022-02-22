@@ -22,6 +22,7 @@ Pillow>=8.1.2
 psutil>=5.7.3
 pybase64>=1.1.1
 PyDictionary
+pymediainfo
 git+https://github.com/ashwinstr/pyrogram.git@x21
 # git+https://github.com/pyrogram/pyrogram.git@master
 # pyrogram==1.4.1
