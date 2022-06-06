@@ -14,5 +14,4 @@
 - @DeletedUser420
 
 ## Based on:
-
 https://github.com/midnightmadwalk/MyGpack
